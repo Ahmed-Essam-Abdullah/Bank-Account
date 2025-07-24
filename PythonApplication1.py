@@ -61,6 +61,6 @@ def main():
             print(f"Thanks,see you again soon {name}")
             break
         else:
-            print("Invalid choice. Please enter a number from 1 to 5")
+            print("Invalid choice. Please enter a number from 1 to 4")
 
 main()
