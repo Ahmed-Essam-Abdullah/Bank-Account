@@ -30,7 +30,3 @@ The system allows the user to perform basic banking operations like:
     ```bash
     python bank_account.py
     ```
-
----
-
-## 🛠️ Project Structure
